@@ -1,0 +1,33 @@
+
+.all {
+margin-top: 10;
+    background-color: #000000;
+    background-size:cover ;
+color: aliceblue;
+font-size: 20px;
+text-align: center;
+}
+nav{
+    background-color: rgb(40, 38, 38);
+    display: grid;
+    place-items: center;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul a{
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.615);
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: 0.2s ease-in;
+    font-size: 15px;
+   
+}
+h3{
+    margin-top: 0%;
+}
+h1{
+    text-align: center;
+}
